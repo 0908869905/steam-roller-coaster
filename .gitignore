@@ -1,0 +1,9 @@
+# Gradle / WPILib 建置產物
+build/
+.gradle/
+bin/
+*.class
+
+# 編輯器與系統檔
+.vscode/
+.DS_Store
